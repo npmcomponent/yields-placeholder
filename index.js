@@ -3,8 +3,8 @@
  * dependencies
  */
 
-var classes = require('classes')
-  , events = require('events');
+var classes = require('component-classes')
+  , events = require('component-events');
 
 /**
  * Export `placeholder`
